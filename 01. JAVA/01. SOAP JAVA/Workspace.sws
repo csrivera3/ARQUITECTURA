@@ -4,11 +4,22 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{B4955E1D-E206-431E-B981-1A7C11D07B13}" Name="01. CASOS DE USO" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="01. UML/03.  UML                    18.0/01_ CASOS DE USO/01_ CASOS DE USO.prj"/>
-		<Model ID="{717B7060-928C-48A0-8D62-5CB2D5B01366}" Loaded="No" Name="02.. ACTIVIDAD" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="01. UML/03.  UML                    18.0/02_ ACTIVIDAD/02__ ACTIVIDAD.prj"/>
+
+		<Model Expanded="Yes" ID="{417F8099-8F83-4F62-A7E2-DDE8E57BCF53}" Loaded="No" Name="01. CASOS DE USO" Selected="Yes" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="/Users/sanch/Documentos/01_ CASOS DE USO/01_ CASOS DE USO.prj"/>
+
+		<Model Expanded="Yes" ID="{717B7060-928C-48A0-8D62-5CB2D5B01366}" Loaded="No" Name="02.. ACTIVIDAD" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="01. UML/03.  UML                    18.0/02_ ACTIVIDAD/02__ ACTIVIDAD.prj"/>
+
 		<Model Expanded="Yes" ID="{6B2C0F45-DA60-4722-8EFF-DAFDA3E3D7E1}" Loaded="No" Name="03. SECUENCIA" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="01. UML/03.  UML                    18.0/03_ SECUENCIA/03_ SECUENCIA.prj"/>
+
 		<Model ID="{4E8A7A1B-7D55-4C3E-8D21-BBE939EB2EDD}" Loaded="No" Name="04. CLASES" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="/Users/sanch/Documentos/04_ CLASES/04_ CLASES.prj"/>
+
 		<Model ID="{62EFC72F-FD20-40FE-A659-EBC02C00E306}" Loaded="No" Name="05. ARQUITCETURA" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="/Users/sanch/Documentos/05_ ARQUITCETURA/05_ ARQUITCETURA.prj"/>
+
+		<Model Expanded="Yes" ID="{A8F9F17C-50DC-430A-9F8A-ED89F3CE6C64}" Loaded="No" Name="CasosUsoConversionUnidades" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="/Users/sanch/Downloads/MATRICULAS_MONSTER_UNIVERSITY_GR05/MATRICULAS_MONSTER_UNIVERSITY_GR05/01. UML                     18.0/CasosUsoConversionUnidades.oom"/>
+
+		<Model Expanded="Yes" ID="{2BCB7B88-4CFE-4E45-B81D-90B2A473F7D1}" Loaded="No" Name="ActividadesConvsersiónUnidades" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="/Users/sanch/Downloads/MATRICULAS_MONSTER_UNIVERSITY_GR05/MATRICULAS_MONSTER_UNIVERSITY_GR05/01. UML                     18.0/ActividadesConvsersiónUnidades.oom"/>
+
 	</Local>
+
 	<BrowserModule Name="Repository"/>
 </Workspace>
